@@ -1,1 +1,2 @@
-hello this is my first git exerciselkerfjelkjf
+hello this is my first git exerciselk
+this is second exercise
