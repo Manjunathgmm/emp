@@ -1,2 +1,3 @@
 hello this is my first git exerciselk
 this is second exercise
+this my third commit
